@@ -1,0 +1,78 @@
+[TV1]
+Best_Chromosome: [False  True  True  True  True  True  True False  True False  True  True
+  True  True  True False]
+測試結果:
+score: 0.5558333333333333
+[36272]
+
+[TV2]
+Best_Chromosome: [False  True  True  True  True False  True  True  True False  True False
+  True  True  True  True]
+測試結果:
+score: 0.5572727272727273
+[27543]
+
+[TV3]
+Best_Chromosome: [False  True  True False False  True  True  True  True  True  True False
+  True  True  True  True]
+測試結果:
+score: 0.5505
+[53711]
+
+[TV4]
+Best_Chromosome: [ True  True False  True False  True  True  True  True False  True  True
+  True  True  True False]
+測試結果:
+score: 0.55
+[27463]
+
+[TV5]
+Best_Chromosome: [False  True  True False  True  True  True  True  True False  True False
+  True  True  True False]
+測試結果:
+score: 0.583125
+[39077]
+
+[TV6]
+Best_Chromosome: [ True  True  True  True False False  True  True False  True  True  True
+  True  True  True  True]
+測試結果:
+score: 0.5835714285714285
+[27528]
+
+[TV7]
+Best_Chromosome: [False  True  True  True  True  True False  True  True  True  True  True
+ False False False  True]
+測試結果:
+score: 0.5808333333333333
+[23873]
+
+[TV8]
+Best_Chromosome: [False  True  True  True  True  True  True  True  True  True False False
+  True  True  True  True]
+測試結果:
+score: 0.587
+[22166]
+
+[TV9]
+Best_Chromosome: [ True  True False  True  True  True  True False  True False False False
+  True False  True  True]
+測試結果:
+score: 0.59375
+[15066]
+
+[TV10]
+Best_Chromosome: [False  True False  True False  True  True False False  True False  True
+  True False  True  True]
+測試結果:
+score: 0.6083333333333333
+[11626]
+
+[TV11]
+Best_Chromosome: [False False  True  True False False  True False False False  True  True
+  True False  True  True]
+測試結果:
+score: 0.6525
+[21419]
+
+IRR: [12.426874318369752, 10.662664857865423, 20.53637810406157, 13.46018754831151, 21.49549465658971, 18.384754154464655, 19.009436707939663, 22.01741843238363, 14.639070036983615, 7.823930553472214, 114.18999999999997]
